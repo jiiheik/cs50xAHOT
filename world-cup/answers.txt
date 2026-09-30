@@ -1,0 +1,19 @@
+Times:
+
+10 simulations: 0m0.027s
+100 simulations: 0m0.026s
+1000 simulations: 0m0.033s
+10000 simulations: 0m0.098s
+100000 simulations: 0m0.751s
+1000000 simulations: 0m7.337s
+
+Questions:
+
+Which predictions, if any, proved incorrect as you increased the number of simulations?:
+
+10 simulations was not enough to provide correct predictions. Starting from 100 simulations, predictions retained similar, correct levels.
+
+Suppose you're charged a fee for each second of compute time your program uses.
+After how many simulations would you call the predictions "good enough"?:
+
+Predictions stabilized after 1000 simulations. If the fee would would be per full second, after 100000 simulations, chances of winning hardly change at but time increases dramatically so that should be good enough.

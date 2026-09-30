@@ -1,0 +1,12 @@
+sort1 uses: Bubble Sort
+
+How do you know?: For a sorted list, it was the quickest (best case scenario n)
+
+sort2 uses: Merge Sort
+
+How do you know?: For a random list, it was the quickest
+
+sort3 uses: Selection Sort
+
+How do you know?: Since sort1 and sort2 were identified, selection sort was the last one left.
+r

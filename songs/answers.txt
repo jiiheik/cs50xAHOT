@@ -1,0 +1,3 @@
+Based on the averages, looks like the listener likes danceable music. Energy is on similar level but valence is notably lower.
+
+Using median instead of average could provide more accurate results. A reference value would also be helpful.
