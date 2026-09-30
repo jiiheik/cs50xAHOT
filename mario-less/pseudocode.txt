@@ -1,0 +1,3 @@
+Prompt for height
+If height is less than 1 or greater than 8 or not an integer, repeat step 1
+else print i height
